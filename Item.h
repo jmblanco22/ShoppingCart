@@ -1,7 +1,5 @@
 #pragma once
-// COMPLETED: Item.h
-//  Do not modify
-//  Read all comments for information on implementation Item.cpp
+
 #ifndef __ITEM__
 #define __ITEM__
 
