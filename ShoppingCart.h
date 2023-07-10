@@ -1,7 +1,4 @@
 #pragma once
-// COMPLETED: ShoppingCart.h
-//  Do not modify
-//  Read all comments for information on implementation ShoppingCart.cpp
 #ifndef __SHOPPING_CART__
 #define __SHOPPING_CART__
 
