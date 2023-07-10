@@ -1,4 +1,3 @@
-// TO BE COMPLETED: ShoppingCartDriver.cpp
 #include <iostream>
 #include "ShoppingCart.h"
 using namespace std;
