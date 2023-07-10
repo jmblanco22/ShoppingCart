@@ -1,5 +1,5 @@
 #pragma once
-// COMPLETED: DateUtility.h
+
 #ifndef __DATE_UTILITY__
 #define __DATE_UTILITY__
 
